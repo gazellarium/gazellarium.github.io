@@ -1,0 +1,88 @@
+project:
+  type: website
+  output-dir: docs
+
+
+
+
+website:
+  title: "Z. Khalaji Pirbaluti"
+  site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
+  favicon: "favicon.ico" # Optional, add a favicon
+  description: "A website with a docked left sidebar and three sections."  
+  
+  search: false
+  
+  
+  sidebar:
+   
+    style: "docked"
+    #background: "#B7B7B7" # Light background for the sidebar
+    #foreground: "#333333" # Dark text color
+    width: 250 # Adjust as needed
+    collapse: false # keep the sidebar always expanded
+    pinned: true
+    align: left
+    collapse-level: 2
+    
+    #background: "#71BBB2"
+    #foreground: "#27445D"
+    contents:
+    
+      - text: "Home"
+        href: content/index.qmd
+        
+      - section: "Academic:"
+        contents:
+          - text: "Research & Projects"
+            href: content/research_project.qmd
+          - text: "Useful Resources"
+            href: content/resources.qmd
+          
+      #- section: "Portfolio"
+        #contents:
+          #- text: "Project1"
+          #  href: content/project1.qmd
+          #- text: "Project2"
+          #  href: content/project2.qmd
+                
+      - section: "Repositories:"
+        contents: 
+          - text: "OSF"
+            href: https://osf.io/5fshr/
+            target: blank
+        
+          - text: "Github"
+            href: https://github.com/gazellarium?tab=repositories
+            target: blank
+            
+          - text: "Shinyapp"
+            href: https://gazellarium.shinyapps.io
+      
+    # tools:
+    #   - icon: github
+    #     href: https://github.com/gazellarium?tab=repositories
+    
+  
+    # Footer
+  page-footer:
+    #background: "#222222"
+    #foreground: "#ffffff"
+    center: "&copy; Updated 2025, GKP"
+  
+  #page-footer: 
+    #center: "&copy; Updated 2025, GKP"
+    
+
+format:
+  html:
+    theme: 
+      light: [flatly]
+      dark: [darkly]
+    respect-user-color-scheme: true
+    fontsize: 1.1em
+    #css: styles.scss
+    toc: true
+
+editor: visual
+

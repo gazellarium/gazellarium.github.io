@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+styles.scss
+/_site/
+/content/
+
+/.quarto/
