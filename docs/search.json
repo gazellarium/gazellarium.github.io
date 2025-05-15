@@ -1,10 +1,86 @@
 [
   {
+    "objectID": "content/resources.html",
+    "href": "content/resources.html",
+    "title": "‘List of Useful Resuorces’",
+    "section": "",
+    "text": "During my time in graduate school, I had the opportunity to use some fantastic materials created by researchers in our community. I’m really hoping to be able to contribute my own resources/tools someday… In the meantime, I find organizing information by making lists really helpful, so I’ve put together these lists, categorized by area. Hopefully, this is one form of contribution for now.",
+    "crumbs": [
+      "Academic:",
+      "Useful Resources"
+    ]
+  },
+  {
+    "objectID": "content/resources.html#quantitative-analysis",
+    "href": "content/resources.html#quantitative-analysis",
+    "title": "‘List of Useful Resuorces’",
+    "section": "Quantitative analysis",
+    "text": "Quantitative analysis\nSome resources that helped me to brush up on statistics concepts and get started on using R.\n\nE-books and Online Tutorials:\n\nNavarro, D. (2013). Learn Statistics with R. 🔗 URL\nBrown, V. (2021). An Introduction to Linear Mixed-Effects Modeling in R. 🔗URL (+ 2 videos).\nWieling, M. Statistics courses lecture slides. 🔗URL\nBross, F. (2019). Using Mixed Effect Models to Analyze Acceptability Rating Data. 🔗URL Part I and URL Part II.\nFruehwald, J & Gardner, M, H. (eds.). (2022). Linguistics Methods Hub. 🔗 URL\n\n\n\nBooks:\n\nBaayen, R, H. (2008). Analyzing Linguistic Data A Practical Introduction to Statistics Using R. 🔗 Cambridge.\nSonderegger, M. (2023). Regression Modeling for Linguistic Data. 🔗MIT Press\nWinter, B. (2019). Statistics for Linguists: An Introduction Using R. 🔗Routledge",
+    "crumbs": [
+      "Academic:",
+      "Useful Resources"
+    ]
+  },
+  {
+    "objectID": "content/resources.html#typesetting-tools",
+    "href": "content/resources.html#typesetting-tools",
+    "title": "‘List of Useful Resuorces’",
+    "section": "Typesetting tools",
+    "text": "Typesetting tools\nSome general resources for creating graphics (trees, tables), glosses, numbered examples, mostly in LaTeX.\n\nSlade, B. (2021). LaTeX in half an hour for linguists and others. 🔗URL\nHimmelreich, A. (2021). LaTeX for Linguists. (107 pages) 🔗URL\nWikibooks. LaTeX/Linguistics. 🔗URL\nLyX Linguistics module. 🔗URL\n\n\nSyntax-related:\n\nShah, M. (2024). SynTeX: LaTeX for syntacticians. (for beginners) 🔗Lingbuzz\nCrippen, J. (2017). Using TikZ for linguistic diagrams. 🔗Lingbuzz\n\n\n\nPhonology-related:\n\nGarcia, G, D. LaTeX and Phonology tutorial. 🔗URL\nWYSIWYG editor for Optimality Theory (OT) tableaux. 🔗URL",
+    "crumbs": [
+      "Academic:",
+      "Useful Resources"
+    ]
+  },
+  {
+    "objectID": "content/resources.html#experimental-tools",
+    "href": "content/resources.html#experimental-tools",
+    "title": "‘List of Useful Resuorces’",
+    "section": "Experimental tools",
+    "text": "Experimental tools\n\nSullivan, Lisa. “Introduction to Online Experiments in jsPsych with sample experiments” 🔗URL\nSchuster, Sebastian. “Tutorial for Running web-based experiments” (jsPsych tutorial) 🔗URL\nChuprinko, Kirill. “PCIbex tutorial” 🔗 URL",
+    "crumbs": [
+      "Academic:",
+      "Useful Resources"
+    ]
+  },
+  {
+    "objectID": "content/resources.html#fieldwork-related",
+    "href": "content/resources.html#fieldwork-related",
+    "title": "‘List of Useful Resuorces’",
+    "section": "Fieldwork related",
+    "text": "Fieldwork related\n\nLingView: A web interface for viewing glossed ELAN and FLEx files, optionally with time-synced video and audio. Developed at Brown University as part of the A’ingae Language Documentation initiative.\nKelsey C. Neely. “Some tips and tricks for using ELAN” 🔗 PDF URL",
+    "crumbs": [
+      "Academic:",
+      "Useful Resources"
+    ]
+  },
+  {
+    "objectID": "content/resources.html#misc.",
+    "href": "content/resources.html#misc.",
+    "title": "‘List of Useful Resuorces’",
+    "section": "Misc.",
+    "text": "Misc.\nto be added…",
+    "crumbs": [
+      "Academic:",
+      "Useful Resources"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am enthusiastic about research and passionate about deriving meaningful insights from data, in particular natural language and behavioral data sets. I have a Master’s degree in Linguistics and have a background in building behavioral experiments and collecting and analyzing human response data.\n📔 My thesis on the learning of morpho-phonological patterns was recently published and can be viewed 👉 here (in an e-book format).\n\nAreas of interest:\n\nvisualization of data as a way of storytelling with maps/graphs\nspreadsheets of various size\narchiving and database creation\nusing big data in sports\nscience outreach to young students\ndictionaries/encyclopedias\nmaps and atlas\nmaking art with R\nevolution of writing systems\n\n\n\n\n\n\n\nPersonal Details\n\n\n\nI go by the first name Gazelle (aka [ɢazɑle]) and my last name Khalaji in IPA is [xalaʤi].\nFun fact: My last name is a southwestern non-Oghuz Turkic Language. Unfortunately, with less than 20,000 speakers today, it’s in an endangered state. (Disclaimer: I am not a speaker).",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
     "objectID": "content/research_project.html",
     "href": "content/research_project.html",
     "title": "‘Research & Projects’",
     "section": "",
-    "text": "My primary research foci centers around learnability and phonology. My approach in research in general is to be able to engage with the literature on higher-level questions regarding the architecture of the linguistic theory with an eye to both the computational and formal algorithmic levels of explanation; and of course to follow our strive to understand what language is from a biolinguistic perspective.\n\n\n\n\nI have an inquiring mind primarily about:\n\nphonology and child acquisition\npuzzles in the data, especially with a learnability angle\nartificial grammar learning\n\n\nMain methods shaping my research would be:\n\nexperimental studies\ncomputational modelling\ncorpus and quantitative analysis\n\n\n\n\n\n\nMain topics that intrigue me currently:\n\nWhat do learners acquire in morpho-phonological systems, and how do they navigate the tension between language-specific and universal principles, particularly regarding exceptions and inconsistencies? What insights can their errors and challenges offer into our theories of learnability?\nIn what ways do diverse factors, including statistical regularities and inherent soft biases not directly present in the input data (as seen in the surfeit-of-the-stimulus phenomenon), shape the acquisition of phonology and phonotactics?\nHow do structural and channel-based biases influence language learning, diachronic language change across generations, and the emergence of typological patterns observed across languages?\nWhich learning algorithms and representations most accurately reflect the developmental pathways observed in language acquisition through modeling? How do various implementations of models compare in their ability to learn different types of linguistic patterns?\nFascinations inside of linguistics:\nHow do children acquire morpho-syntax and phonology, and what implications do the observed developmental stages of grammatical knowledge have for our understanding of the underlying architecture of grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overall structure?\nWhat kinds of formal language-theoretic approaches can enhance our understanding of the computational procedures involved in grammar, and how do these approaches relate to the physical realizations of the cognitive-level explanations of language?\nHow have different schools of linguistic thought in history shaped our current understanding of language, learning, and cognitive science?",
+    "text": "My primary research foci centers around learnability and phonology. My approach in research in general is to be able to engage with the literature on higher-level questions regarding the architecture of the linguistic theory with an eye to both the computational and formal algorithmic levels of explanation; and of course to follow our strive to understand what language is from a biolinguistic perspective.\n\n\n\n\nI have an inquiring mind primarily about:\n\nphonology and child acquisition\npuzzles in the data, especially with a learnability angle\nartificial grammar learning\n\n\nMain methods shaping my research would be:\n\nexperimental studies\ncomputational modelling\ncorpus and quantitative analysis\n\n\n\n\n\n\nMain topics that intrigue me currently:\n\nWhat do learners acquire in morpho-phonological systems, and how do they navigate the tension between language-specific and universal principles, particularly regarding exceptions and inconsistencies? What insights can their errors and challenges offer into our theories of learnability?\nIn what ways do diverse factors, including statistical regularities and inherent soft biases not directly present in the input data (as seen in the surfeit-of-the-stimulus phenomenon), shape the acquisition of phonology and phonotactics?\nHow do structural and channel-based biases influence language learning, diachronic language change across generations, and the emergence of typological patterns observed across languages?\nWhich learning algorithms and representations most accurately reflect the developmental pathways observed in language acquisition through modeling? How do various implementations of models compare in their ability to learn different types of linguistic patterns?\n\nFascinations inside of linguistics:\n\nHow do children acquire morpho-syntax and phonology, and what implications do the observed developmental stages of grammatical knowledge have for our understanding of the underlying architecture of grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overall structure?\nWhat kinds of formal language-theoretic approaches can enhance our understanding of the computational procedures involved in grammar, and how do these approaches relate to the physical realizations of the cognitive-level explanations of language?\nHow have different schools of linguistic thought in history shaped our current understanding of language, learning, and cognitive science?",
     "crumbs": [
       "Academic:",
       "Research & Projects"
@@ -26,7 +102,7 @@
     "href": "content/research_project.html#more-specifically",
     "title": "‘Research & Projects’",
     "section": "",
-    "text": "Main topics that intrigue me currently:\n\nWhat do learners acquire in morpho-phonological systems, and how do they navigate the tension between language-specific and universal principles, particularly regarding exceptions and inconsistencies? What insights can their errors and challenges offer into our theories of learnability?\nIn what ways do diverse factors, including statistical regularities and inherent soft biases not directly present in the input data (as seen in the surfeit-of-the-stimulus phenomenon), shape the acquisition of phonology and phonotactics?\nHow do structural and channel-based biases influence language learning, diachronic language change across generations, and the emergence of typological patterns observed across languages?\nWhich learning algorithms and representations most accurately reflect the developmental pathways observed in language acquisition through modeling? How do various implementations of models compare in their ability to learn different types of linguistic patterns?\nFascinations inside of linguistics:\nHow do children acquire morpho-syntax and phonology, and what implications do the observed developmental stages of grammatical knowledge have for our understanding of the underlying architecture of grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overall structure?\nWhat kinds of formal language-theoretic approaches can enhance our understanding of the computational procedures involved in grammar, and how do these approaches relate to the physical realizations of the cognitive-level explanations of language?\nHow have different schools of linguistic thought in history shaped our current understanding of language, learning, and cognitive science?",
+    "text": "Main topics that intrigue me currently:\n\nWhat do learners acquire in morpho-phonological systems, and how do they navigate the tension between language-specific and universal principles, particularly regarding exceptions and inconsistencies? What insights can their errors and challenges offer into our theories of learnability?\nIn what ways do diverse factors, including statistical regularities and inherent soft biases not directly present in the input data (as seen in the surfeit-of-the-stimulus phenomenon), shape the acquisition of phonology and phonotactics?\nHow do structural and channel-based biases influence language learning, diachronic language change across generations, and the emergence of typological patterns observed across languages?\nWhich learning algorithms and representations most accurately reflect the developmental pathways observed in language acquisition through modeling? How do various implementations of models compare in their ability to learn different types of linguistic patterns?\n\nFascinations inside of linguistics:\n\nHow do children acquire morpho-syntax and phonology, and what implications do the observed developmental stages of grammatical knowledge have for our understanding of the underlying architecture of grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overall structure?\nWhat kinds of formal language-theoretic approaches can enhance our understanding of the computational procedures involved in grammar, and how do these approaches relate to the physical realizations of the cognitive-level explanations of language?\nHow have different schools of linguistic thought in history shaped our current understanding of language, learning, and cognitive science?",
     "crumbs": [
       "Academic:",
       "Research & Projects"
@@ -81,7 +157,7 @@
     "href": "content/research_project.html#gutturals-and-pharyngealization-harmony-in-the-meymandi-dialect",
     "title": "‘Research & Projects’",
     "section": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect",
-    "text": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect\n⏳ [2021 - under publication]\nCo-authored chapter in the Springer Handbook of Phonetics and Phonology of Modern Iranian Languages\nThis study aims to investigate a phonological process involving guttarals in Meymandi, a dialect of Persian. In our analysis, we claim there is a pharyngealization harmony process in Meymandi which interacts with another common process in various dialects of Persian, Compensatory lengthening. This analyses is further accompanied by reports of acoustic measurements taken from audio recordings of speakers collected via remote fieldwork. The analysis shows phonetic evidence for this interaction.\n🔗/",
+    "text": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect\n⏳ [2021 - under publication]\nCo-authored chapter in the Springer Handbook of Phonetics and Phonology of Modern Iranian Languages\nThis study aims to investigate a phonological process involving guttarals in Meymandi, a dialect of Persian. In our analysis, we claim there is a pharyngealization harmony process in Meymandi which interacts with another common process in various dialects of Persian, Compensatory lengthening. This analyses is further accompanied by reports of acoustic measurements taken from audio recordings of speakers collected via remote fieldwork. The analysis shows phonetic evidence for this interaction.\n🔗",
     "crumbs": [
       "Academic:",
       "Research & Projects"
@@ -96,82 +172,6 @@
     "crumbs": [
       "Academic:",
       "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "About me",
-    "section": "",
-    "text": "I am enthusiastic about research and deriving meaningful insights from data, in particular natural language and behavioral data sets. I have a Master’s degree in Linguistics and have a background in building behavioral experiments and collecting and analyzing human response data.\nMy thesis on the learning of morpho-phonological patterns was recently published and can be viewed 👉 here (in an e-book format).\n\nAreas of interest:\n\nvisualization of data as a way of storytelling with maps/graphs\nspreadsheets of various size\narchiving and database creation\nusing big data in sports\nscience outreach to young students\ndictionaries/encyclopedias\nmaps and atlas\nmaking art with R\nevolution of writing systems\n\n\n\n\n\n\n\nPersonal Details\n\n\n\nI go by the first name Gazelle (aka [ɢazɑle]) and my last name Khalaji in IPA is [xalaʤi].\nFun fact: My last name is a southwestern non-Oghuz Turkic Language. Unfortunately, with less than 20,000 speakers today, it’s in an endangered state. (Disclaimer: I am not a speaker).",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/resources.html",
-    "href": "content/resources.html",
-    "title": "‘List of Useful Resuorces’",
-    "section": "",
-    "text": "During my time in graduate school, I had the opportunity to use some fantastic materials created by researchers in our community. I’m really hoping to be able to contribute my own resources/tools someday… In the meantime, I find organizing information by making lists really helpful, so I’ve put together these lists, categorized by area. Hopefully, this is one form of contribution for now.",
-    "crumbs": [
-      "Academic:",
-      "Useful Resources"
-    ]
-  },
-  {
-    "objectID": "content/resources.html#quantitative-analysis",
-    "href": "content/resources.html#quantitative-analysis",
-    "title": "‘List of Useful Resuorces’",
-    "section": "Quantitative analysis",
-    "text": "Quantitative analysis\nSome resources that helped me to brush up on statistics concepts and get started on using R.\n\nE-books and Online Tutorials:\n\nNavarro, D. (2013). Learn Statistics with R. 🔗 learningstatisticswithr.com\nBrown, V. (2021). An Introduction to Linear Mixed-Effects Modeling in R. 🔗URL (+ 2 videos).\nWieling, M. Statistics courses lecture slides. 🔗URL\nBross, F. (2019). Using Mixed Effect Models to Analyze Acceptability Rating Data. 🔗URL Part I and URL Part II.\nFruehwald, J & Gardner, M, H. (eds.). (2022). Linguistics Methods Hub. 🔗 https://lingmethodshub.github.io/\n\n\n\nBooks:\n\nBaayen, R, H. (2008). Analyzing Linguistic Data A Practical Introduction to Statistics Using R. 🔗 Cambridge.\nSonderegger, M. (2023). Regression Modeling for Linguistic Data. 🔗MIT Press\nWinter, B. (2019). Statistics for Linguists: An Introduction Using R. 🔗Routledge",
-    "crumbs": [
-      "Academic:",
-      "Useful Resources"
-    ]
-  },
-  {
-    "objectID": "content/resources.html#typesetting-tools",
-    "href": "content/resources.html#typesetting-tools",
-    "title": "‘List of Useful Resuorces’",
-    "section": "Typesetting tools",
-    "text": "Typesetting tools\nSome general resources for creating graphics (trees, tables), glosses, numbered examples, mostly in LaTeX.\n\nSlade, B. (2021). LaTeX in half an hour for linguists and others. 🔗URL\nHimmelreich, A. (2021). LaTeX for Linguists. (107 pages) 🔗URL\nWikibooks. LaTeX/Linguistics. 🔗URL\nLyX Linguistics module. 🔗URL\n\n\nSyntax-related:\n\nShah, M. (2024). SynTeX: LaTeX for syntacticians. (for beginners) 🔗Lingbuzz\nCrippen, J. (2017). Using TikZ for linguistic diagrams. 🔗Lingbuzz\n\n\n\nPhonology-related:\n\nGarcia, G, D. LaTeX and Phonology tutorial. 🔗URL\nWYSIWYG editor for Optimality Theory (OT) tableaux. 🔗URL",
-    "crumbs": [
-      "Academic:",
-      "Useful Resources"
-    ]
-  },
-  {
-    "objectID": "content/resources.html#experimental-tools",
-    "href": "content/resources.html#experimental-tools",
-    "title": "‘List of Useful Resuorces’",
-    "section": "Experimental tools",
-    "text": "Experimental tools\n\nSullivan, Lisa. Introduction to Online Experiments in jsPsych with sample experiments. 🔗URL\nSchuster, Sebastian. Tutorial for Running web-based experiments. (jsPsych tutorial) 🔗URL\nChuprinko, Kirill. PCIbex tutorial. 🔗 URL",
-    "crumbs": [
-      "Academic:",
-      "Useful Resources"
-    ]
-  },
-  {
-    "objectID": "content/resources.html#fieldwork-related",
-    "href": "content/resources.html#fieldwork-related",
-    "title": "‘List of Useful Resuorces’",
-    "section": "Fieldwork related",
-    "text": "Fieldwork related\n\nLingView: A web interface for viewing glossed ELAN and FLEx files, optionally with time-synced video and audio. Developed at Brown University as part of the A’ingae Language Documentation initiative.\nKelsey C. Neely. Some tips and tricks for using ELAN. 🔗 PDF URL",
-    "crumbs": [
-      "Academic:",
-      "Useful Resources"
-    ]
-  },
-  {
-    "objectID": "content/resources.html#misc.",
-    "href": "content/resources.html#misc.",
-    "title": "‘List of Useful Resuorces’",
-    "section": "Misc.",
-    "text": "Misc.\nto be added…",
-    "crumbs": [
-      "Academic:",
-      "Useful Resources"
     ]
   }
 ]
