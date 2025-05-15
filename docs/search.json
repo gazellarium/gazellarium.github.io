@@ -1,5 +1,114 @@
 [
   {
+    "objectID": "content/research_project.html",
+    "href": "content/research_project.html",
+    "title": "‘Research & Projects’",
+    "section": "",
+    "text": "My primary research foci centers around learnability and phonology. My approach in research in general is to be able to engage with the literature on higher-level questions regarding the architecture of the linguistic theory with an eye to both the computational and formal algorithmic levels of explanation; and of course to follow our strive to understand what language is from a biolinguistic perspective.\n\n\n\n\nI have an inquiring mind primarily about:\n\nphonology and child acquisition\npuzzles in the data, especially with a learnability angle\nartificial grammar learning\n\n\nMain methods shaping my research would be:\n\nexperimental studies\ncomputational modelling\ncorpus and quantitative analysis\n\n\n\n\n\n\nMain topics that intrigue me currently:\n\nWhat do learners acquire in morpho-phonological systems, and how do they navigate the tension between language-specific and universal principles, particularly regarding exceptions and inconsistencies? What insights can their errors and challenges offer into our theories of learnability?\nIn what ways do diverse factors, including statistical regularities and inherent soft biases not directly present in the input data (as seen in the surfeit-of-the-stimulus phenomenon), shape the acquisition of phonology and phonotactics?\nHow do structural and channel-based biases influence language learning, diachronic language change across generations, and the emergence of typological patterns observed across languages?\nWhich learning algorithms and representations most accurately reflect the developmental pathways observed in language acquisition through modeling? How do various implementations of models compare in their ability to learn different types of linguistic patterns?\nFascinations inside of linguistics:\nHow do children acquire morpho-syntax and phonology, and what implications do the observed developmental stages of grammatical knowledge have for our understanding of the underlying architecture of grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overall structure?\nWhat kinds of formal language-theoretic approaches can enhance our understanding of the computational procedures involved in grammar, and how do these approaches relate to the physical realizations of the cognitive-level explanations of language?\nHow have different schools of linguistic thought in history shaped our current understanding of language, learning, and cognitive science?",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#broadly",
+    "href": "content/research_project.html#broadly",
+    "title": "‘Research & Projects’",
+    "section": "",
+    "text": "I have an inquiring mind primarily about:\n\nphonology and child acquisition\npuzzles in the data, especially with a learnability angle\nartificial grammar learning\n\n\nMain methods shaping my research would be:\n\nexperimental studies\ncomputational modelling\ncorpus and quantitative analysis",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#more-specifically",
+    "href": "content/research_project.html#more-specifically",
+    "title": "‘Research & Projects’",
+    "section": "",
+    "text": "Main topics that intrigue me currently:\n\nWhat do learners acquire in morpho-phonological systems, and how do they navigate the tension between language-specific and universal principles, particularly regarding exceptions and inconsistencies? What insights can their errors and challenges offer into our theories of learnability?\nIn what ways do diverse factors, including statistical regularities and inherent soft biases not directly present in the input data (as seen in the surfeit-of-the-stimulus phenomenon), shape the acquisition of phonology and phonotactics?\nHow do structural and channel-based biases influence language learning, diachronic language change across generations, and the emergence of typological patterns observed across languages?\nWhich learning algorithms and representations most accurately reflect the developmental pathways observed in language acquisition through modeling? How do various implementations of models compare in their ability to learn different types of linguistic patterns?\nFascinations inside of linguistics:\nHow do children acquire morpho-syntax and phonology, and what implications do the observed developmental stages of grammatical knowledge have for our understanding of the underlying architecture of grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overall structure?\nWhat kinds of formal language-theoretic approaches can enhance our understanding of the computational procedures involved in grammar, and how do these approaches relate to the physical realizations of the cognitive-level explanations of language?\nHow have different schools of linguistic thought in history shaped our current understanding of language, learning, and cognitive science?",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#learning-morpho-phonological-alternations-like-french-liaison",
+    "href": "content/research_project.html#learning-morpho-phonological-alternations-like-french-liaison",
+    "title": "‘Research & Projects’",
+    "section": "Learning Morpho-phonological Alternations like French Liaison",
+    "text": "Learning Morpho-phonological Alternations like French Liaison\n⌛ [2023 - 2025]\nThis is a Master’s thesis project which consists of an artificial language learning experiment focusing on the learning of morpho-phonological processes that are described as phonologically conditioned allomorphy (analogous to French Liaison).\n🔗 [Click Here] to get the official thesis document from the university library.\n🔗 [Click Here] to view the thesis in an e-book format online.\n🔗 [Click Here] to download the conference proceedings paper presented at CLA2024.\n🔗 [OSF Repository] where the experimental material including the stimuli set and scripts are accessible.",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#syntactic-bootstrapping-and-literacy",
+    "href": "content/research_project.html#syntactic-bootstrapping-and-literacy",
+    "title": "‘Research & Projects’",
+    "section": "Syntactic Bootstrapping and Literacy",
+    "text": "Syntactic Bootstrapping and Literacy\n⌛ [2024 - 2025]\nI was a research assistant on this project and conducted data-wrangling, statistical analysis and visualization and survey preparation. The project studies the relationship between syntactic bootstrapping and reading for school-age children.\n🔗",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#vowel-variation-in-nɬeʔkepmxcín-an-acoustic-study-of-coarticulation",
+    "href": "content/research_project.html#vowel-variation-in-nɬeʔkepmxcín-an-acoustic-study-of-coarticulation",
+    "title": "‘Research & Projects’",
+    "section": "Vowel Variation in Nɬeʔkepmxcín: An Acoustic Study of Coarticulation",
+    "text": "Vowel Variation in Nɬeʔkepmxcín: An Acoustic Study of Coarticulation\n⌛ [2022]\nThis conference preceedings paper was the outcome of a field methods course project on Nɬeʔkepmxcín vowel variation. The aim of this study was to investigate the available impressionistic descriptions of vowel variation (in three consonantal environments (pre-velar, post-velar, labial) in both pre-vocalic and post-vocalic positions) as well as comparing the coarticulation effects including retraction of vowels with other neighboring languages.\n🔗 [Click Here] to download the conference paper presented at ICSNL58.",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#learning-phonotactic-rules-sensitive-to-sonority-sequencing-principle-in-persian-prior-bias-or-experience",
+    "href": "content/research_project.html#learning-phonotactic-rules-sensitive-to-sonority-sequencing-principle-in-persian-prior-bias-or-experience",
+    "title": "‘Research & Projects’",
+    "section": "Learning Phonotactic Rules Sensitive to Sonority Sequencing Principle in Persian: Prior Bias or Experience?",
+    "text": "Learning Phonotactic Rules Sensitive to Sonority Sequencing Principle in Persian: Prior Bias or Experience?\n⌛ [2019 - 2021]\nThis project has focused on the SSP projection effects and learning phonotactics, using 2 acceptability judgment experiments with non-word stimuli. The goal was to test if Persian speakers exhibit any sensitivity to the SSP taking into account their linguistic experience with Persian phonotactic constraints with a CVC(C) syllable structure. Persian syllables have no attested onset clusters, and 21% of the attested coda clusters are against the SSP. The results confirmed the view that speakers can generalize their phonotactic knowledge beyond their lexicon and the fact that they exhibit some innate biases despite their lack of experience, along the lines of the POS argument.\n🔗 The original work is an unpublished thesis in Persian, but an English excerpt of it and the stimuli set and scripts are accessible on an OSF repository.\n🔗 The interactive individual participant plots can be viewed on this Shinyapp page.",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#gutturals-and-pharyngealization-harmony-in-the-meymandi-dialect",
+    "href": "content/research_project.html#gutturals-and-pharyngealization-harmony-in-the-meymandi-dialect",
+    "title": "‘Research & Projects’",
+    "section": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect",
+    "text": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect\n⏳ [2021 - under publication]\nCo-authored chapter in the Springer Handbook of Phonetics and Phonology of Modern Iranian Languages\nThis study aims to investigate a phonological process involving guttarals in Meymandi, a dialect of Persian. In our analysis, we claim there is a pharyngealization harmony process in Meymandi which interacts with another common process in various dialects of Persian, Compensatory lengthening. This analyses is further accompanied by reports of acoustic measurements taken from audio recordings of speakers collected via remote fieldwork. The analysis shows phonetic evidence for this interaction.\n🔗/",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/research_project.html#ipa-chart-translation-project",
+    "href": "content/research_project.html#ipa-chart-translation-project",
+    "title": "‘Research & Projects’",
+    "section": "IPA Chart translation project",
+    "text": "IPA Chart translation project\n⌛ [2018]\nAs part of a project at the International Phonetic Association, I have worked on translating the recent version of the full IPA chart to Persian. The collection of translated charts can be found here, if you are interested in adding another language!\n🔗 [Click Here] to download the full IPA chart recent version in Persian.",
+    "crumbs": [
+      "Academic:",
+      "Research & Projects"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am enthusiastic about research and deriving meaningful insights from data, in particular natural language and behavioral data sets. I have a Master’s degree in Linguistics and have a background in building behavioral experiments and collecting and analyzing human response data.\nMy thesis on the learning of morpho-phonological patterns was recently published and can be viewed 👉 here (in an e-book format).\n\nAreas of interest:\n\nvisualization of data as a way of storytelling with maps/graphs\nspreadsheets of various size\narchiving and database creation\nusing big data in sports\nscience outreach to young students\ndictionaries/encyclopedias\nmaps and atlas\nmaking art with R\nevolution of writing systems\n\n\n\n\n\n\n\nPersonal Details\n\n\n\nI go by the first name Gazelle (aka [ɢazɑle]) and my last name Khalaji in IPA is [xalaʤi].\nFun fact: My last name is a southwestern non-Oghuz Turkic Language. Unfortunately, with less than 20,000 speakers today, it’s in an endangered state. (Disclaimer: I am not a speaker).",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
     "objectID": "content/resources.html",
     "href": "content/resources.html",
     "title": "‘List of Useful Resuorces’",
@@ -63,115 +172,6 @@
     "crumbs": [
       "Academic:",
       "Useful Resources"
-    ]
-  },
-  {
-    "objectID": "content/index.html",
-    "href": "content/index.html",
-    "title": "About me",
-    "section": "",
-    "text": "I am enthusiastic about research and deriving meaningful insights from data, in particular natural language and behavioral datasets. I have a Master’s degree in linguistics and have a background in building behavioral experiments and collecting and analyzing human response data.\n\nAreas of interest:\n\nvisualization of data as a way of storytelling with maps/graphs\nspreadsheets of various size\narchiving and database creation\ndictionaries/encyclopedias\nmaps and atlas\nusing big data in sports\nscience outreach to young students\nmaking art with R\n\n\n\n\n\n\n\nPersonal Details\n\n\n\nI go by the first name Gazelle (aka [ɢazɑle]) and my last name Khalaji in IPA is [xalaʤi].\nFun fact: My last name is a southwestern non-Oghuz Turkic Language. Unfortunately, with less than 20,000 speakers today, it’s in an endangered state. (Disclaimer: I am not a speaker).",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html",
-    "href": "content/research_project.html",
-    "title": "‘Research & Projects’",
-    "section": "",
-    "text": "My primary research foci centers around learnability and phonology. My approach in research in general is to be able to engage with the literature on big-picture questions regarding the architecture of the linguistic theory with an eye to both the computational and formal algorithmic levels of explanation; and of course to follow our strive to understand what language is from a biolinguistic perspective.\n\n\n\n\nI have an inquiring mind primarily about:\n\nphonology and child acquisition\npuzzles in the data, especially with a learnability angle\nartificial grammar learning\n\n\nMain methods shaping my research would be:\n\nexperimental studies\ncomputational modelling\ncorpus and quantitative analysis\n\n\n\n\n\n\nMain topics that interest me currently are:\n\nHow do learners acquire and navigate the tension on the level of morpho-phonological patterns encompassing exceptions/inconsistencies and what do their errors and challenges reveal about modularity and the architecture of the grammar?\nWhich learning algorithm best capture learning trajectories as close as possible to acquisition in our computational modelling and how do competing models fare across different types of patterns on this basis?\nIn what ways different factors shape phonological or phonotactic acquisition, including statistical learning and soft biases irrelevant to the learning data (emerging with surfeit-of-the-stimulus phenomenon)?\nIn what ways do structural and channel-based biases drive language learning, language change over generations, and typological patterns?\n\nFascinations inside of linguistics:\n\nHow do children acquire (morpho-)syntax and phonology, and what implications does the developmental trajectory of grammatical knowledge have for the architecture of the grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overal structure?\nWhat types of formal-language-theoretic approaches could allow us to understand the computational procedures involved in grammar, and how do these relate to cognitive-level explanations of language?\nHow have different schools of linguistic thought shaped our current understanding of language, learning, and cognitive science?",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#broadly",
-    "href": "content/research_project.html#broadly",
-    "title": "‘Research & Projects’",
-    "section": "",
-    "text": "I have an inquiring mind primarily about:\n\nphonology and child acquisition\npuzzles in the data, especially with a learnability angle\nartificial grammar learning\n\n\nMain methods shaping my research would be:\n\nexperimental studies\ncomputational modelling\ncorpus and quantitative analysis",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#more-specifically",
-    "href": "content/research_project.html#more-specifically",
-    "title": "‘Research & Projects’",
-    "section": "",
-    "text": "Main topics that interest me currently are:\n\nHow do learners acquire and navigate the tension on the level of morpho-phonological patterns encompassing exceptions/inconsistencies and what do their errors and challenges reveal about modularity and the architecture of the grammar?\nWhich learning algorithm best capture learning trajectories as close as possible to acquisition in our computational modelling and how do competing models fare across different types of patterns on this basis?\nIn what ways different factors shape phonological or phonotactic acquisition, including statistical learning and soft biases irrelevant to the learning data (emerging with surfeit-of-the-stimulus phenomenon)?\nIn what ways do structural and channel-based biases drive language learning, language change over generations, and typological patterns?\n\nFascinations inside of linguistics:\n\nHow do children acquire (morpho-)syntax and phonology, and what implications does the developmental trajectory of grammatical knowledge have for the architecture of the grammar?\nHow is the grammar architecturally organized, and how does phonology interface with syntax and morphology within the overal structure?\nWhat types of formal-language-theoretic approaches could allow us to understand the computational procedures involved in grammar, and how do these relate to cognitive-level explanations of language?\nHow have different schools of linguistic thought shaped our current understanding of language, learning, and cognitive science?",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#learning-morpho-phonological-alternations-like-french-liaison",
-    "href": "content/research_project.html#learning-morpho-phonological-alternations-like-french-liaison",
-    "title": "‘Research & Projects’",
-    "section": "Learning Morpho-phonological Alternations like French Liaison",
-    "text": "Learning Morpho-phonological Alternations like French Liaison\n⌛ [2023 - 2025]\nThis is a Master’s thesis project which consists of an artificial language learning experiment focusing on the learning of morpho-phonological processes that are described as phonologically conditioned allomorphy (analogous to French Liaison).\n🔗 To download the thesis click here.\n🔗 To download the conference paper presented at CLA2024 click here for the pdf.\n🔗 The stimuli set and r scripts are accessible on an osf repository.",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#syntactic-bootstrapping-and-literacy",
-    "href": "content/research_project.html#syntactic-bootstrapping-and-literacy",
-    "title": "‘Research & Projects’",
-    "section": "Syntactic Bootstrapping and Literacy",
-    "text": "Syntactic Bootstrapping and Literacy\n⌛ [2024 - 2025]\nI was a research assistant on this project and conducted data-wrangling, statistical analysis and visualization and survey preparation. The project studies the relationship between syntactic bootstrapping and reading for school-age children.\n🔗",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#vowel-variation-in-nɬeʔkepmxcín-an-acoustic-study-of-coarticulation",
-    "href": "content/research_project.html#vowel-variation-in-nɬeʔkepmxcín-an-acoustic-study-of-coarticulation",
-    "title": "‘Research & Projects’",
-    "section": "Vowel Variation in Nɬeʔkepmxcín: An Acoustic Study of Coarticulation",
-    "text": "Vowel Variation in Nɬeʔkepmxcín: An Acoustic Study of Coarticulation\n⌛ [2022]\nThis conference preceedings paper was the outcome of a field methods course project on Nɬeʔkepmxcín vowel variation. The aim of this study was to investigate the available impressionistic descriptions of vowel variation (in three consonantal environments (pre-velar, post-velar, labial) in both pre-vocalic and post-vocalic positions) as well as comparing the coarticulation effects including retraction of vowels with other neighboring languages.\n🔗 To download the conference paper presented at ICSNL58 click here.",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#learning-phonotactic-rules-sensitive-to-sonority-sequencing-principle-in-persian-prior-bias-or-experience",
-    "href": "content/research_project.html#learning-phonotactic-rules-sensitive-to-sonority-sequencing-principle-in-persian-prior-bias-or-experience",
-    "title": "‘Research & Projects’",
-    "section": "Learning Phonotactic Rules Sensitive to Sonority Sequencing Principle in Persian: Prior Bias or Experience?",
-    "text": "Learning Phonotactic Rules Sensitive to Sonority Sequencing Principle in Persian: Prior Bias or Experience?\n⌛ [2019 - 2021]\nThis project has focused on the SSP projection effects and learning phonotactics, using 2 acceptability judgment experiments with non-word stimuli. The goal was to test if Persian speakers exhibit any sensitivity to the SSP taking into account their linguistic experience with Persian phonotactic constraints with a CVC(C) syllable structure. Persian syllables have no attested onset clusters, and 21% of the attested coda clusters are against the SSP. The results confirmed the view that speakers can generalize their phonotactic knowledge beyond their lexicon and the fact that they exhibit some innate biases despite their lack of experience, along the lines of the POS argument.\n🔗 The original work is an unpublished thesis in Persian, but an English excerpt of it and the stimuli set and r scripts are accessible on an osf repository.\n🔗 The interactive individual participant plots can be viewed on this shinyapp page.",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#gutturals-and-pharyngealization-harmony-in-the-meymandi-dialect",
-    "href": "content/research_project.html#gutturals-and-pharyngealization-harmony-in-the-meymandi-dialect",
-    "title": "‘Research & Projects’",
-    "section": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect",
-    "text": "Gutturals and Pharyngealization Harmony in the Meymandi Dialect\n⏳ [2021 - under publication]\nCo-authored chapter in the Springer Handbook of Phonetics and Phonology of Modern Iranian Languages\nThis study aims to investigate a phonological process involving guttarals in Meymandi, a dialect of Persian. In our analysis, we claim there is a pharyngealization harmony process in Meymandi which interacts with another common process in various dialects of Persian, Compensatory lengthening. This analyses is further accompanied by reports of acoustic measurements taken from audio recordings of speakers collected via remote fieldwork. The analysis shows phonetic evidence for this interaction.",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
-    ]
-  },
-  {
-    "objectID": "content/research_project.html#ipa-chart-translation-project",
-    "href": "content/research_project.html#ipa-chart-translation-project",
-    "title": "‘Research & Projects’",
-    "section": "IPA Chart translation project",
-    "text": "IPA Chart translation project\n⌛ [2018]\nAs part of a project at the International Phonetic Association, I have worked on translating the recent version of the full IPA chart to Persian (pdf here).\n🔗 The collection of translated charts can be found here, if you are interested in adding another language!",
-    "crumbs": [
-      "Academic:",
-      "Research & Projects"
     ]
   }
 ]
