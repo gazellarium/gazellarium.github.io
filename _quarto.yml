@@ -10,26 +10,22 @@ project:
 website:
   title: "Z. Khalaji Pirbaluti"
   site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
-  favicon: "favicon.ico" # Optional, add a favicon
+  favicon: favicon.ico # Optional, add a favicon
   description: "A personal website for Z. Khalaji Pirbaluti"  
   
   search: false
   
   
   sidebar:
-   
     style: "docked"
-    #background: "#B7B7B7" # Light background for the sidebar
-    #foreground: "#333333" # Dark text color
-    width: 260 # Adjust as needed
+    width: 270 # Adjust as needed
     collapse: false # keep the sidebar always expanded
     pinned: true
     align: left
     collapse-level: 2
-    
-    #background: "#71BBB2"
-    #foreground: "#27445D"
-    contents:
+
+
+    contents: #tabs on the sidebar
     
       - text: "Home"
         href: content/index.qmd
@@ -68,12 +64,8 @@ website:
   
     # Footer
   page-footer:
-    #background: "#222222"
-    #foreground: "#ffffff"
     center: "&copy; Updated 05.2025, GKP"
   
-  #page-footer: 
-    #center: "&copy; Updated 2025, GKP"
     
 
 format:
