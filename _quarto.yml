@@ -10,7 +10,7 @@ project:
 website:
   title: "Z. Khalaji Pirbaluti"
   site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
-  favicon: favicon.ico # Optional, add a favicon
+  favicon: favicon.png # Optional, add a favicon
   description: "A personal website for Z. Khalaji Pirbaluti"  
   
   search: false
@@ -18,7 +18,7 @@ website:
   
   sidebar:
     style: "docked"
-    width: 270 # Adjust as needed
+    width: 270px # Adjust as needed
     collapse: false # keep the sidebar always expanded
     pinned: true
     align: left
