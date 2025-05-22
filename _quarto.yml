@@ -10,7 +10,7 @@ project:
 website:
   title: "Z. Khalaji Pirbaluti"
   site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
-  favicon: favicon.png # Optional, add a favicon
+  favicon: content/images/favicon.png # Optional, add a favicon
   description: "A personal website for Z. Khalaji Pirbaluti"  
   
   search: false
@@ -63,7 +63,7 @@ website:
   
     # Footer
   page-footer:
-    center: "&copy; Updated 05.2025, GKP"
+    left: "&copy; Updated 05.2025, GKP"
   
     
 
@@ -77,9 +77,9 @@ format:
     #css: styles.scss
     toc: true
     grid:
-      sidebar-width:	240px
+      sidebar-width: 255px
       #body-width:	800px
-      #margin-width:	250px
+      margin-width:	200px
       #gutter-width:	1.5em
 
 editor: visual
