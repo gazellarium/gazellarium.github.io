@@ -10,7 +10,11 @@ project:
 website:
   title: "Z. Khalaji Pirbaluti"
   site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
+<<<<<<< HEAD
   favicon: content/images/favicon.png # Optional, add a favicon
+=======
+  favicon: /favicon.png # Optional, add a favicon
+>>>>>>> 209dfd3dd74759802bf7519f0b3e24a5da5861a4
   description: "A personal website for Z. Khalaji Pirbaluti"  
   
   search: false
