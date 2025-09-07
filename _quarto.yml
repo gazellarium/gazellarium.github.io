@@ -12,7 +12,8 @@ website:
   site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
   favicon: content/images/favicon.png # Optional, add a favicon
   description: "A personal website for Z. Khalaji Pirbaluti"  
-  
+  google-analytics:
+    tracking-id: "G-WCC4REHNM4"
   search: false
   
   
@@ -54,7 +55,10 @@ website:
             target: blank
             
           - text: "Shinyapp"
-            href: https://gazellarium.shinyapps.io
+            href: https://gazellarium.shinyapps.io/ssp-exp/
+            
+          - text: "Tableau Public"
+            href: https://public.tableau.com/app/profile/z.khalaji/vizzes
       
     # tools:
     #   - icon: github
@@ -63,7 +67,7 @@ website:
   
     # Footer
   page-footer:
-    center: "&copy; GKP - 05.2025"
+    center: "&copy; GKP - 06.2025"
   
     
 
