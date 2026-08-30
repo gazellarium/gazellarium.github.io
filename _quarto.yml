@@ -8,10 +8,10 @@ project:
 
 
 website:
-  title: "Z. Khalaji Pirbaluti"
+  title: "Z. Khalaji"
   site-url: "https://gazellarium.github.io/" # Replace with your actual site URL
   favicon: content/images/favicon.png # Optional, add a favicon
-  description: "A personal website for Z. Khalaji Pirbaluti"  
+  description: "A personal website for Z. Khalaji "  
   google-analytics:
     tracking-id: "G-WCC4REHNM4"
   search: false
@@ -66,8 +66,7 @@ website:
     
   
     # Footer
-  page-footer:
-    center: "&copy; GKP - 06.2025"
+  page-footer: "&copy; GKP - 07.2026"
   
     
 
@@ -78,7 +77,7 @@ format:
       dark: [darkly, content/styles.scss]
     respect-user-color-scheme: true
     fontsize: 1.1rem
-    #css: styles.scss
+    #css: content/styles.scss
     toc: true
     grid:
       sidebar-width: 255px
